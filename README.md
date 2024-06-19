@@ -52,3 +52,5 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+Github repository link: https://github.com/GenioustaWiz/nyumba_kumi_html
